@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-22 12:00:00.017,AExAu2Xr2l-ueq2q2OnNzDMQBtQd96QZ,my_goods,enter_browser,2128,32
 2019-09-22 12:00:00.682,DizQF-4Wpa9umyG2jieFZz9k0i3xgCJE,shops_bookmark,app_page_view,,
 2019-09-22 12:00:01.181,QY9QG9UfVnfH9_usxtlD4mmfk-foy1Ey,shops_bookmark,enter_browser,,5

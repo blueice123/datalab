@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-24 06:00:35.635,0XFToWYIDpGw813B_7xv6OhrSALXxxdy,shops_ranking,app_page_view,,
 2019-09-24 06:00:37.790,n8tIdOezWcf-jtTLc2SES_h8FgGcFpRF,goods_search_result/남방,app_page_view,,
 2019-09-24 06:00:40.578,6OUwcnzrZ5pPJZ4y_VbasWbFxXEjEDiE,shops_ranking,app_page_view,,

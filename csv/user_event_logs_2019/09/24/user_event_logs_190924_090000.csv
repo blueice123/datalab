@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-24 09:00:00.033,k__s-RaO9KNjrB5I8yhgUQOqql6Acf9x,shops_bookmark,app_page_view,,
 2019-09-24 09:00:01.274,jz2xowJvfx1SM2DdzEpjORKm9utvYd5R,shops_bookmark,app_page_view,,
 2019-09-24 09:00:03.193,ZzZZrLLjnU6sPCnuc1U_pp0_wzQ0ulsO,shops_bookmark,app_page_view,,

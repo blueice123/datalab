@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-21 04:00:02.553,X-8hR_-0EmFkClV5_HLdpSt-s-XQZSCS,my_goods,enter_browser,2050,12
 2019-09-21 04:00:03.843,X-8hR_-0EmFkClV5_HLdpSt-s-XQZSCS,my_goods,remove_my_goods,2050,12
 2019-09-21 04:00:08.194,eNoqaIXzCFCuBJZzcZIPKlprGGRfgx5b,my_goods,app_page_view,,

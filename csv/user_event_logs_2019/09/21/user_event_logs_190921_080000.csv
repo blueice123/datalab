@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-21 08:00:00.177,BQWO-FszM9AnQOwec-hp1M3XfomCFIq0,shops_bookmark,app_page_view,,
 2019-09-21 08:00:03.520,7NRWXJWOtFZL9XWO_D64YpvDaKrLAKNK,category_search_result/바지,app_page_view,,
 2019-09-21 08:00:03.915,leEimsWoFkkm-shc5CVT8L6084uHio81,shops_ranking,enter_browser,4050,12

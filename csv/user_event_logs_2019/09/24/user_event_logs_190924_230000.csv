@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-24 23:00:00.737,_HOMJJmi1Ix6Wl0OvYp7MbGjULbF-2-h,my_goods,app_page_view,,
 2019-09-24 23:00:01.506,JFqVuheixdr2LUtyIRORw_x2ZPI43Hye,category_search_result/원피스,app_page_view,,
 2019-09-24 23:00:01.771,Dh1nFG_wfX6BWM5TFKjPKo-PT0qZdGC7,shops_bookmark,app_page_view,,

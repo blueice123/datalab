@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-23 07:00:02.212,YUMsMXUaR3dLPQQDqa3v7x6eaBIduDCa,goods_search_result/티,app_page_view,,
 2019-09-23 07:00:02.855,OR7pdoqR1tRkSE15PtTgdX52ynkC-7lS,my_goods,app_page_view,,
 2019-09-23 07:00:05.514,OR7pdoqR1tRkSE15PtTgdX52ynkC-7lS,shops_bookmark,app_page_view,,

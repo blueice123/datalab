@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-23 03:00:00.660,MRNFeS0sVveDbr_PGIlPqsXAyWaPxBaK,my_goods,app_page_view,,
 2019-09-23 03:00:01.089,8GtINzJ4GpIBhtZW0CIa2mKHiJSJHleU,my_goods,app_page_view,,
 2019-09-23 03:00:02.443,6ZImo9zfNAHONmYgf6B_LIGRASnVIIE6,my_goods,app_page_view,,

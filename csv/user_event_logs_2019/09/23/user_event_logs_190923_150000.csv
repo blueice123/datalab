@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-23 15:00:01.331,RwXjaZmu7TKEDCJtAPQoIFf4whON05U-,shops_bookmark,app_page_view,,
 2019-09-23 15:00:01.726,CksiKySJHmXVm-QKyfhUiGaNobsbnADc,goods_search_result/스트랩 백,app_page_view,,
 2019-09-23 15:00:02.002,BmdmeLn7B58eo7rMe5628Lcp2fD4mg3d,my_goods,enter_browser,6427,185
