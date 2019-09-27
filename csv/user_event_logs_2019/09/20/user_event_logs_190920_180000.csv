@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-20 18:00:00.700,JxJn9fhWxLfSBIJ1sni45_YsdiZuyrNq,shops_bookmark,app_page_view,,
 2019-09-20 18:00:01.890,6C68lzj99vVuNrjHknRr_ki9zmzBdhKr,goods_search_result/오프숄더,enter_browser,4556,178
 2019-09-20 18:00:02.759,0fb3gjWcIFEZhmXxppsgceIfQPCyBRll,shops_ranking,app_page_view,,

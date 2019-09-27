@@ -1,3 +1,4 @@
+timestamp,user_id,event_origin,event_name,event_goods_id,event_shop_id
 2019-09-20 10:00:00.074,BbspKEr53cNQXiZkBAxjdayAtqTRDc1X,goods_search_result/펀칭블라우스,app_page_view,,
 2019-09-20 10:00:00.645,u-vQToyWNw0-JWZOGH9BIlNvxMSfO0f9,shops_bookmark,app_page_view,,
 2019-09-20 10:00:01.593,0XDOdDmxiNj2f-EDRtinS_vXNXC8aYPp,shops_ranking,app_page_view,,
